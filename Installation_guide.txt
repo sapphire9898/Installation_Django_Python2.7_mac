@@ -1,0 +1,14 @@
+1) Base on the Git, input the following :
+$git clone git://github.com/django/django.git
+
+
+2)install pip
+
+We first download the .py file, from https://bootstrap.pypa.io/get-pip.py. 
+And in the terminal, input the following : 
+
+>>> python get-pip.py —user
+
+
+3) install django. 
+>>> pip install django —-user
